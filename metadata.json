@@ -1,0 +1,5 @@
+{
+  "name": "React Sokoban",
+  "description": "A classic Sokoban puzzle game built with React and Tailwind CSS, inspired by the KDE game 'Skladnik'. Push the diamonds onto the goals to solve the levels.",
+  "requestFramePermissions": []
+}
